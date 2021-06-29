@@ -9,7 +9,7 @@ dagabi/dagabi is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-Gabriel
-Intersted in Raspberry pi \ arduino projects.
-Currently investigating OpenCV and its applications.
-Looking for interesting automations and cool mobility projects.
+Gabriel<br/>
+- Intersted in Raspberry pi \ arduino projects.<br/>
+- Currently investigating OpenCV and its applications. <br/>
+- Looking for interesting automations and cool mobility projects.<br/>
