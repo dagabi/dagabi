@@ -1,1 +1,2 @@
-token.json
+#ignore all json files
+*.json
