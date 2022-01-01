@@ -1,0 +1,950 @@
+l>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=660">
+	<title>New Vinyl & CD releases  w/c Sunday 17 October 2021</title>
+	<style type="text/css">
+		html {
+			margin: 0;
+			padding: 0;
+		}
+
+		body.juno {
+			background-color: #fff;
+			margin: 0;
+			padding: 0;
+		}
+
+		table {
+			border: 0;
+			border-spacing: 0;
+			border-collapse: collapse;
+			color: #222;
+			font-family: Arial, sans-serif;
+			font-size: 14px;
+			line-height: 20px;
+			text-align: left;
+		}
+
+		.j-browser,
+		.j-header,
+		.j-header-title,
+		.j-header-title-inner,
+		.j-top,
+		.j-content,
+		.j-title,
+		.j-product,
+		.j-join,
+		.j-sep,
+		.j-links {
+			width: 100%;
+		}
+
+		.j-container {
+			width: 600px;
+		}
+
+		.j-col {
+			vertical-align: top;
+			width: 48%;
+		}
+
+		.j-gutter {
+			width: 4%;
+		}
+
+		table td {
+			border: 0;
+			vertical-align: top;
+		}
+
+		table td.j-vam {
+			vertical-align: middle;
+		}
+
+		a {
+			text-decoration: none;
+		}
+
+		p a {
+			text-decoration: underline;
+		}
+
+		p {
+			margin-bottom: 10px;
+			margin-top: 0;
+		}
+
+		img {
+			border: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		.j-top img {
+			display: block;
+		}
+
+		.j-text-center {
+			text-align: center;
+		}
+
+		.j-text-right {
+			text-align: right;
+		}
+
+		.j-spacer-xs {
+			font-size: 5px;
+			line-height: 5px;
+		}
+
+		.j-spacer-sm {
+			font-size: 10px;
+			line-height: 10px;
+		}
+
+		.j-spacer-md {
+			font-size: 15px;
+			line-height: 15px;
+		}
+
+		.j-spacer-lg {
+			font-size: 30px;
+			line-height: 30px;
+		}
+
+		.j-mobile-spacer {
+			display: none;
+		}
+
+		@media(max-width: 767px) {
+			.j-mobile-spacer {
+				display: table-cell;
+				width: 10px;
+			}
+		}
+
+		.j-browser {
+			background: #fde7b1; 
+			color: #333333; 
+			font-size: 11px; 
+			line-height: 17px;
+		}
+
+		.j-header table td {
+			padding-bottom: 10px;
+		}
+
+		.j-header-title {
+			background-color: #31495a;
+			color: #fff;
+		}
+
+		.j-header-title-inner {
+			color: #fff;
+			font-size: 28px;
+			line-height: 30px;
+		}
+
+		.j-header-title-inner td {
+			padding-bottom: 14px;
+			padding-top: 18px;
+		}
+
+		table .j-header-title-inner a {
+			color: #fff;
+		}
+
+		.j-header-date {
+			color: #96afc3;
+			font-size: 14px;
+			line-height: 20px;
+		}
+
+		.j-search,
+		.j-genres {
+			text-align: right;
+		}
+
+		.j-genres {
+			font-size: 13px;
+			text-align: right;
+			width: 60%;
+		}
+
+		.j-top {
+			background: #f3f3f3;
+		}
+
+		.j-title,
+		.j-title table {
+			background: #f3f3f3;
+			color: #333;
+			font-size: 24px;
+			font-weight: bold;
+		}
+
+		.j-title table td {
+			padding-bottom: 20px;
+			padding-top: 20px;
+		}
+
+		.j-sep td {
+			border-bottom: 1px solid #f3f3f3;			
+		}
+
+		table .j-contact a,
+		table .j-genres a {
+			color: #222;
+		}
+
+		.j-product-image-td {
+			width: 200px;
+		}
+
+		.j-product-image-container {
+			height: 200px; 
+			text-align: center; 
+			width: 200px;	
+		}
+
+		.j-product-image {
+			max-height: 100%; 
+			max-width: 100%;
+		}
+
+		.j-product-gutter {
+			width: 20px;
+		}
+
+		table .j-product-artist,
+		table .j-product-artist a {
+			color: #111;
+			font-size: 18px;
+			line-height: 24px;
+		}
+
+		table .j-product-title,
+		table .j-product-title a {
+			color: #444;
+			font-size: 18px;
+			line-height: 24px;
+		}
+
+		table .j-product-label,
+		table .j-product-label a {
+			color: #999;
+			font-size: 18px;
+			line-height: 24px;
+		}
+
+		.j-view-tracklist,
+		table .j-view-tracklist a {
+			color: #4a95c1;
+			text-decoration: underline;
+		}
+
+		.j-price {
+			color: #f07d3a;
+			line-height: 25px;
+		}
+
+		.j-links td {
+			padding-top: 5px;
+		}
+	</style>
+</head>
+<body class="juno">
+	<table class="j-browser"><tr><td align="center"><a href="https://www.juno.co.uk/email/2021/41/?genre_id=2802,3199,3499&media_id=13&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=view_in_browser&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-view-in-browser.png" alt="Click here to view in browser" style="display: block;"></a></td></tr></table>
+	<table class="j-header"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container"><tr><td class="j-mobile-spacer">&nbsp;</td><td class="j-logo"><a href="https://www.juno.co.uk/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=logo&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/logos/logo_records.png" alt="Juno Records"></a></td>
+						<td class="j-genres"><strong>Your selected genres:</strong> Indie/Alternative <a href="https://www.juno.co.uk/account/subscriptions/RjI4OENGNjQtRkMyOS00MzQ0LTlENjgtNUM3MTY0MzgzQjEzfDY=?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=manage_link_top&c=2516634">(change)</a></td><td class="j-mobile-spacer">&nbsp;</td></tr></table></td></tr></table>
+	<table class="j-header-title"><tr><td align="center"><table class="j-container"><tr><td class="j-mobile-spacer">&nbsp;</td><td>
+							<table class="j-header-title-inner"><tr><td><a href="https://www.juno.co.uk/email/2021/41/?genre_id=2802,3199,3499&media_id=13&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=header&c=2516634" style="color: #fff;">New Vinyl & CD releases </a><br><span class="j-header-date">w/c Sunday 17 October 2021</span></td>
+									<td class="j-search"><a href="https://www.juno.co.uk/search/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=search&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/order-complete/btn-search-juno-jr.png" alt="Search Juno"></a></td></tr></table>
+							</td><td class="j-mobile-spacer">&nbsp;</td></tr></table></td></tr></table>
+	<table class="j-top"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div>
+				<table class="j-container"><tr><td><a href="https://www.juno.co.uk/email/2021/41/?genre_id=2802,3199,3499&media_id=13&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=view_in_browser_button_2&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/daily-weekly/banner-view-your-selected-new-releases-600.jpg" alt="View your selected new releases"></a></td></tr></table>
+									<div class="j-spacer-md">&nbsp;</div><table class="j-container"><tr><td><a href="https://www.juno.co.uk/sale/?utm_source=daily_weekly_email_banner&utm_medium=banner&utm_campaign=daily_weekly_email_flash_sale"><img src="https://imagescdn.juno.co.uk/banners/autumn_600x180.jpg" alt="flash_sale"></a></td></tr></table>
+								<div class="j-spacer-lg">&nbsp;</div></td></tr></table>
+	<div class="j-spacer-lg">&nbsp;</div>
+	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/garbage-20th-anniversary-edition/842954-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS842954-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Garbage/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">GARBAGE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/garbage-20th-anniversary-edition/842954-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">Garbage (20th Anniversary Edition)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/BMG/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">BMG</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited gatefold pinkvinyl 2xLP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/garbage-20th-anniversary-edition/842954-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/garbage-20th-anniversary-edition/842954-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/842954/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;26.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837647-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS837647-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Sufjan+Stevens/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">Sufjan STEVENS</a>/<a style="color: #111;" href="https://www.juno.co.uk/artists/Angelo+De+Augustine/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">ANGELO DE AUGUSTINE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837647-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">A Beginner's Mind</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Asthmatic+Kitty+US/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Asthmatic Kitty US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: green vinyl LP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837647-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837647-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/837647/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;18.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/vanishing-twin-ookii-gekkou/836521-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS836521-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Vanishing+Twin/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">VANISHING TWIN</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/vanishing-twin-ookii-gekkou/836521-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">Ookii Gekkou</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Fire/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Fire</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: gatefold LP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/vanishing-twin-ookii-gekkou/836521-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/vanishing-twin-ookii-gekkou/836521-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/836521/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/primal-scream-demodelica/840536-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS840536-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Primal+Scream/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">PRIMAL SCREAM</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/primal-scream-demodelica/840536-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">Demodelica</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Sony+BMG/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Sony BMG</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited gatefold 180 gram vinyl 2xLP + booklet + MP3 download code in spot-varnished sleeve<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/primal-scream-demodelica/840536-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/primal-scream-demodelica/840536-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/840536/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;22.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/lykke-li-wounded-rhymes-anniversary-edition/838395-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS838395-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Lykke+Li/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">LYKKE LI</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/lykke-li-wounded-rhymes-anniversary-edition/838395-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">Wounded Rhymes (Anniversary Edition)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Warner/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Warner</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: gatefold 180 gram vinyl 2xLP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/lykke-li-wounded-rhymes-anniversary-edition/838395-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/lykke-li-wounded-rhymes-anniversary-edition/838395-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/838395/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;28.75</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/primal-scream-demodelica/840535-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS840535-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Primal+Scream/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">PRIMAL SCREAM</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/primal-scream-demodelica/840535-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">Demodelica</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Sony+BMG/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Sony BMG</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD in spot-varnished sleeve<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/primal-scream-demodelica/840535-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/primal-scream-demodelica/840535-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/840535/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;11.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827476-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS827476-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/The+Charlatans/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">The CHARLATANS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827476-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">A Head Full Of Ideas</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Then/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Then</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: gatefold 2xLP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827476-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827476-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/827476/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;25.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/elsa-hewitt-lupa/828399-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS828399-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Elsa+Hewitt/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">Elsa HEWITT</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/elsa-hewitt-lupa/828399-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">Lupa</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Tompkins+Square+US/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Tompkins Square US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP in spot-varnished sleeve<br>Released: 11 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/elsa-hewitt-lupa/828399-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/elsa-hewitt-lupa/828399-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/828399/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;16.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/slothrust-everyone-else/839819-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS839819-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Slothrust/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">SLOTHRUST</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/slothrust-everyone-else/839819-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">Everyone Else</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Dangerbird+US/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Dangerbird US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: pink vinyl LP + booklet + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/slothrust-everyone-else/839819-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/slothrust-everyone-else/839819-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/839819/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/julia-shapiro-zorked/842174-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=cover_art&c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS842174-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Julia+Shapiro/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=artist&c=2516634">Julia SHAPIRO</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/julia-shapiro-zorked/842174-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=title&c=2516634" style="color: #444;">Zorked</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Suicide+Squeeze+US/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=label&c=2516634" style="color: #777;">Suicide Squeeze US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited translucent green vinyl LP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/julia-shapiro-zorked/842174-01/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=more_tracks&c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/julia-shapiro-zorked/842174-01/?autoplay=1&utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=listen_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/842174/1/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=add_to_cart_btn&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/incubus-morning-view/482049-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS482049-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Incubus/?c=2516634">INCUBUS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/incubus-morning-view/482049-01/?c=2516634" style="color: #444;">Morning View</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Music+On+Vinyl/?c=2516634" style="color: #777;">Music On Vinyl</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: 180 gram vinyl gatefold 2xLP repress<br>Released: 13 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/incubus-morning-view/482049-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/incubus-morning-view/482049-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/482049/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;27.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837646-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS837646-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Sufjan+Stevens/?c=2516634">Sufjan STEVENS</a>/<a style="color: #111;" href="https://www.juno.co.uk/artists/Angelo+De+Augustine/?c=2516634">ANGELO DE AUGUSTINE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837646-01/?c=2516634" style="color: #444;">A Beginner's Mind</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Asthmatic+Kitty+US/?c=2516634" style="color: #777;">Asthmatic Kitty US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837646-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837646-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/837646/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;17.75</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/twenty-one-pilots-blurryface-reissue/847287-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS847287-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Twenty+One+Pilots/?c=2516634">TWENTY ONE PILOTS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/twenty-one-pilots-blurryface-reissue/847287-01/?c=2516634" style="color: #444;">Blurryface (reissue)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Fueled+By+Ramen+US/?c=2516634" style="color: #777;">Fueled By Ramen US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: gatefold silver vinyl 2xLP + insert in die-cut sleeve<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/twenty-one-pilots-blurryface-reissue/847287-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/twenty-one-pilots-blurryface-reissue/847287-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/847287/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;37.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/moderate-rebels-if-you-see-something-that/829887-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS829887-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Moderate+Rebels/?c=2516634">MODERATE REBELS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/moderate-rebels-if-you-see-something-that/829887-01/?c=2516634" style="color: #444;">If You See Something That Doesn't Look Right: Part 2</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Moshi+Moshi/?c=2516634" style="color: #777;">Moshi Moshi</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: green vinyl LP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/moderate-rebels-if-you-see-something-that/829887-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/moderate-rebels-if-you-see-something-that/829887-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/829887/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;17.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837407-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS837407-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Hayden+Thorpe/?c=2516634">Hayden THORPE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837407-01/?c=2516634" style="color: #444;">Moondust For My Diamond</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Domino/?c=2516634" style="color: #777;">Domino</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited LP + autographed insert + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837407-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837407-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/837407/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;23.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837648-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS837648-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Sufjan+Stevens/?c=2516634">Sufjan STEVENS</a>/<a style="color: #111;" href="https://www.juno.co.uk/artists/Angelo+De+Augustine/?c=2516634">ANGELO DE AUGUSTINE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837648-01/?c=2516634" style="color: #444;">A Beginner's Mind</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Asthmatic+Kitty+US/?c=2516634" style="color: #777;">Asthmatic Kitty US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: cassette<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837648-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/sufjan-stevens-angelo-de-a-beginners-mind/837648-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/837648/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;8.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827473-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS827473-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/The+Charlatans/?c=2516634">The CHARLATANS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827473-01/?c=2516634" style="color: #444;">A Head Full Of Ideas</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Then/?c=2516634" style="color: #777;">Then</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827473-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827473-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/827473/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;10.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/myriam-gendron-ma-delire-songs-of-love/847555-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS847555-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Myriam+Gendron/?c=2516634">Myriam GENDRON</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/myriam-gendron-ma-delire-songs-of-love/847555-01/?c=2516634" style="color: #444;">Ma Delire: Songs Of Love Lost & Found</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Feeding+Tube+US/?c=2516634" style="color: #777;">Feeding Tube US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: cassette + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/myriam-gendron-ma-delire-songs-of-love/847555-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/myriam-gendron-ma-delire-songs-of-love/847555-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/847555/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;10.75</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/myriam-gendron-ma-delire-songs-of-love/847556-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS847556-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Myriam+Gendron/?c=2516634">Myriam GENDRON</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/myriam-gendron-ma-delire-songs-of-love/847556-01/?c=2516634" style="color: #444;">Ma Delire: Songs Of Love Lost & Found</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Feeding+Tube+US/?c=2516634" style="color: #777;">Feeding Tube US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/myriam-gendron-ma-delire-songs-of-love/847556-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/myriam-gendron-ma-delire-songs-of-love/847556-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/847556/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;12.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/imagine-dragons-mercury-act-1/846570-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS846570-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Imagine+Dragons/?c=2516634">IMAGINE DRAGONS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/imagine-dragons-mercury-act-1/846570-01/?c=2516634" style="color: #444;">Mercury: Act 1</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Interscope/?c=2516634" style="color: #777;">Interscope</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited gatefold 180 gram white vinyl LP<br>Released: 12 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/imagine-dragons-mercury-act-1/846570-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/imagine-dragons-mercury-act-1/846570-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/846570/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;47.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/sweet-trip-a-tiny-house-in-secret/828497-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS828497-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Sweet+Trip/?c=2516634">SWEET TRIP</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/sweet-trip-a-tiny-house-in-secret/828497-01/?c=2516634" style="color: #444;">A Tiny House In Secret Speeches Polar Equals</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Darla+US/?c=2516634" style="color: #777;">Darla US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited gatefold coloured vinyl 2xLP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/sweet-trip-a-tiny-house-in-secret/828497-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/sweet-trip-a-tiny-house-in-secret/828497-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/828497/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;36.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/sweet-trip-a-tiny-house-in-secret/828498-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS828498-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Sweet+Trip/?c=2516634">SWEET TRIP</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/sweet-trip-a-tiny-house-in-secret/828498-01/?c=2516634" style="color: #444;">A Tiny House In Secret Speeches Polar Equals</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Darla+US/?c=2516634" style="color: #777;">Darla US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited gatefold coloured vinyl 2xLP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/sweet-trip-a-tiny-house-in-secret/828498-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/sweet-trip-a-tiny-house-in-secret/828498-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/828498/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;36.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/vanishing-twin-ookii-gekkou/836520-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS836520-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Vanishing+Twin/?c=2516634">VANISHING TWIN</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/vanishing-twin-ookii-gekkou/836520-01/?c=2516634" style="color: #444;">Ookii Gekkou</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Fire/?c=2516634" style="color: #777;">Fire</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/vanishing-twin-ookii-gekkou/836520-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/vanishing-twin-ookii-gekkou/836520-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/836520/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;11.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827475-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS827475-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/The+Charlatans/?c=2516634">The CHARLATANS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827475-01/?c=2516634" style="color: #444;">A Head Full Of Ideas (Deluxe Edition)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Then/?c=2516634" style="color: #777;">Then</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: 2xCD<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827475-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/the-charlatans-a-head-full-of-ideas/827475-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/827475/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;12.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837776-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS837776-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Hayden+Thorpe/?c=2516634">Hayden THORPE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837776-01/?c=2516634" style="color: #444;">Moondust For My Diamond</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Domino/?c=2516634" style="color: #777;">Domino</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837776-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837776-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/837776/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;10.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/the-iditarod-the-ghost-the-elf-the/840739-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS840739-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/The+Iditarod/?c=2516634">The IDITAROD</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/the-iditarod-the-ghost-the-elf-the/840739-01/?c=2516634" style="color: #444;">The Ghost The Elf The Cat & The Angel</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Feeding+Tube+US/?c=2516634" style="color: #777;">Feeding Tube US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/the-iditarod-the-ghost-the-elf-the/840739-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/the-iditarod-the-ghost-the-elf-the/840739-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/840739/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;25.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/veps-open-the-door/830731-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS830731-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Veps/?c=2516634">VEPS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/veps-open-the-door/830731-01/?c=2516634" style="color: #444;">Open The Door</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Kanine+US/?c=2516634" style="color: #777;">Kanine US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: turquoise vinyl 12" + poster + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/veps-open-the-door/830731-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/veps-open-the-door/830731-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/830731/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/strfkr-reptilians-10th-anniversary-deluxe-edition/827297-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS827297-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Strfkr/?c=2516634">STRFKR</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/strfkr-reptilians-10th-anniversary-deluxe-edition/827297-01/?c=2516634" style="color: #444;">Reptilians (10th Anniversary Deluxe Edition)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Polyvinyl+US/?c=2516634" style="color: #777;">Polyvinyl US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited gatefold coloured vinyl 2xLP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/strfkr-reptilians-10th-anniversary-deluxe-edition/827297-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/strfkr-reptilians-10th-anniversary-deluxe-edition/827297-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/827297/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;32.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/mick-strauss-southern-wave/835080-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS835080-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Mick+Strauss/?c=2516634">Mick STRAUSS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/mick-strauss-southern-wave/835080-01/?c=2516634" style="color: #444;">Southern Wave</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Air+Rytmo+France/?c=2516634" style="color: #777;">Air Rytmo France</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: gatefold LP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/mick-strauss-southern-wave/835080-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/mick-strauss-southern-wave/835080-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/835080/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;18.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/lakes-start-again/830854-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS830854-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Lakes/?c=2516634">LAKES</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/lakes-start-again/830854-01/?c=2516634" style="color: #444;">Start Again</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Big+Scary+Monsters/?c=2516634" style="color: #777;">Big Scary Monsters</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: green vinyl LP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/lakes-start-again/830854-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/lakes-start-again/830854-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/830854/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;17.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/bryans-magic-tears-vacuum-sealed/845182-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS845182-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Bryan%27s+Magic+Tears/?c=2516634">BRYAN'S MAGIC TEARS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/bryans-magic-tears-vacuum-sealed/845182-01/?c=2516634" style="color: #444;">Vacuum Sealed</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Born+Bad+France/?c=2516634" style="color: #777;">Born Bad France</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/bryans-magic-tears-vacuum-sealed/845182-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/bryans-magic-tears-vacuum-sealed/845182-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/845182/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;17.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/spirits-having-fun-two/837342-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS837342-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Spirits+Having+Fun/?c=2516634">SPIRITS HAVING FUN</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/spirits-having-fun-two/837342-01/?c=2516634" style="color: #444;">Two</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Born+Yesterday+US/?c=2516634" style="color: #777;">Born Yesterday US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited LP + MP3 download code<br>Released: 13 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/spirits-having-fun-two/837342-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/spirits-having-fun-two/837342-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/837342/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837777-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS837777-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Hayden+Thorpe/?c=2516634">Hayden THORPE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837777-01/?c=2516634" style="color: #444;">Moondust For My Diamond</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Domino/?c=2516634" style="color: #777;">Domino</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837777-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/hayden-thorpe-moondust-for-my-diamond/837777-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/837777/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;21.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/izzy-true-our-beautiful-baby-world/845809-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS845809-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Izzy+True/?c=2516634">IZZY TRUE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/izzy-true-our-beautiful-baby-world/845809-01/?c=2516634" style="color: #444;">Our Beautiful Baby World</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Don+Giovanni+US/?c=2516634" style="color: #777;">Don Giovanni US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/izzy-true-our-beautiful-baby-world/845809-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/izzy-true-our-beautiful-baby-world/845809-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/845809/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/xenia-rubinos-una-rosa/847902-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS847902-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Xenia+Rubinos/?c=2516634">Xenia RUBINOS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/xenia-rubinos-una-rosa/847902-01/?c=2516634" style="color: #444;">Una Rosa</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Epitaph/?c=2516634" style="color: #777;">Epitaph</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/xenia-rubinos-una-rosa/847902-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/xenia-rubinos-una-rosa/847902-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/847902/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;9.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/lazy-magnet-make-it-fun-again/840741-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS840741-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Lazy+Magnet/?c=2516634">LAZY MAGNET</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/lazy-magnet-make-it-fun-again/840741-01/?c=2516634" style="color: #444;">Make It Fun Again</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Feeding+Tube+US/?c=2516634" style="color: #777;">Feeding Tube US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/lazy-magnet-make-it-fun-again/840741-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/lazy-magnet-make-it-fun-again/840741-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/840741/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;25.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/varley-smalltalk-dmcs/845888-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS845888-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Varley/?c=2516634">VARLEY</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/varley-smalltalk-dmcs/845888-01/?c=2516634" style="color: #444;">Smalltalk & DMCs</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Ferryhouse+Productions/?c=2516634" style="color: #777;">Ferryhouse Productions</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: 180 gram vinyl LP<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/varley-smalltalk-dmcs/845888-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/varley-smalltalk-dmcs/845888-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/845888/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;18.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/guided-by-voices-earth-man-blues/816436-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS816436-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Guided+By+Voices/?c=2516634">GUIDED BY VOICES</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/guided-by-voices-earth-man-blues/816436-01/?c=2516634" style="color: #444;">Earth Man Blues</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Guided+By+Voices+Inc+US/?c=2516634" style="color: #777;">Guided By Voices Inc US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/guided-by-voices-earth-man-blues/816436-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/guided-by-voices-earth-man-blues/816436-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/816436/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;12.75</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/born-without-bones-baby-reissue/842932-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS842932-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Born+Without+Bones/?c=2516634">BORN WITHOUT BONES</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/born-without-bones-baby-reissue/842932-01/?c=2516634" style="color: #444;">Baby (reissue)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Pure+Noise+US/?c=2516634" style="color: #777;">Pure Noise US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited coloured vinyl LP + insert + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/born-without-bones-baby-reissue/842932-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/born-without-bones-baby-reissue/842932-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/842932/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;17.75</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/born-without-bones-say-hello/842933-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS842933-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Born+Without+Bones/?c=2516634">BORN WITHOUT BONES</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/born-without-bones-say-hello/842933-01/?c=2516634" style="color: #444;">Say Hello</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Pure+Noise+US/?c=2516634" style="color: #777;">Pure Noise US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited splattered vinyl LP + insert + MP3 download code<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/born-without-bones-say-hello/842933-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/born-without-bones-say-hello/842933-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/842933/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;17.75</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/fulco-teletext-cirkeldier-daniel/849923-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS849923-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Fulco/?c=2516634">FULCO</a>/<a style="color: #111;" href="https://www.juno.co.uk/artists/Teletext/?c=2516634">TELETEXT</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/fulco-teletext-cirkeldier-daniel/849923-01/?c=2516634" style="color: #444;">Cirkeldier Daniel</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Small+Art/?c=2516634" style="color: #777;">Small Art</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: 7"<br>Released: 13 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/fulco-teletext-cirkeldier-daniel/849923-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/fulco-teletext-cirkeldier-daniel/849923-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/849923/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;9.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/small-reactions-new-age-soul/831474-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS831474-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Small+Reactions/?c=2516634">SMALL REACTIONS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/small-reactions-new-age-soul/831474-01/?c=2516634" style="color: #444;">New Age Soul</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Sofaburn+US/?c=2516634" style="color: #777;">Sofaburn US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: coloured vinyl LP<br>Released: 12 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/small-reactions-new-age-soul/831474-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/small-reactions-new-age-soul/831474-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/831474/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;22.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/kristofer-astrom-northern-blues-20th-anniversary-edition/838814-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS838814-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Kristofer+Astrom+%2526+Hidden+Truck/?c=2516634">Kristofer ASTROM & HIDDEN TRUCK</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/kristofer-astrom-northern-blues-20th-anniversary-edition/838814-01/?c=2516634" style="color: #444;">Northern Blues (20th Anniversary Edition)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Startracks/?c=2516634" style="color: #777;">Startracks</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited picture disc LP<br>Released: 13 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/kristofer-astrom-northern-blues-20th-anniversary-edition/838814-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/kristofer-astrom-northern-blues-20th-anniversary-edition/838814-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/838814/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;22.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/kristofer-astrom-go-went-gone/842384-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS842384-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Kristofer+Astrom/?c=2516634">Kristofer ASTROM</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/kristofer-astrom-go-went-gone/842384-01/?c=2516634" style="color: #444;">Go Went Gone</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Startracks/?c=2516634" style="color: #777;">Startracks</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited LP<br>Released: 13 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/kristofer-astrom-go-went-gone/842384-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/kristofer-astrom-go-went-gone/842384-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/842384/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;17.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/kristofer-astrom-loupita/842385-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS842385-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Kristofer+Astrom/?c=2516634">Kristofer ASTROM</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/kristofer-astrom-loupita/842385-01/?c=2516634" style="color: #444;">Loupita</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Startracks/?c=2516634" style="color: #777;">Startracks</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: limited LP<br>Released: 13 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/kristofer-astrom-loupita/842385-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/kristofer-astrom-loupita/842385-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/842385/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;17.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/eddie-tatton-canons-under-flowers/848998-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS848998-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Eddie+Tatton/?c=2516634">Eddie TATTON</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/eddie-tatton-canons-under-flowers/848998-01/?c=2516634" style="color: #444;">Canons Under Flowers</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Stunted/?c=2516634" style="color: #777;">Stunted</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD<br>Released: 13 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/eddie-tatton-canons-under-flowers/848998-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/eddie-tatton-canons-under-flowers/848998-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/848998/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;11.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/a/845544-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS845544-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/A/?c=2516634">A</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/a/845544-01/?c=2516634" style="color: #444;">A</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Two+Gentlemen/?c=2516634" style="color: #777;">Two Gentlemen</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: white vinyl LP + CD<br>Released: 15 Oct 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/a/845544-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/a/845544-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/845544/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;24.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+
+<table class="j-title"><tr><td align="center"><table class="j-container"><tr><td><a name="Preorders">Preorders</a></td></tr></table></td></tr></table>
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/black-country-new-ants-from-up-there/850363-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850363-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Black+Country+New+Road/?c=2516634">BLACK COUNTRY NEW ROAD</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/black-country-new-ants-from-up-there/850363-01/?c=2516634" style="color: #444;">Ants From Up There</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Ninja+Tune/?c=2516634" style="color: #777;">Ninja Tune</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: CD<br>Est. release: 04 Feb 22<br></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/black-country-new-ants-from-up-there/850363-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850363/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;10.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/matty-mandaworld-warm-you/850438-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850438-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Matty+%2526+Mandaworld/?c=2516634">MATTY & MANDAWORLD</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/matty-mandaworld-warm-you/850438-01/?c=2516634" style="color: #444;">Warm You</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Mr+Bongo/?c=2516634" style="color: #777;">Mr Bongo</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: 7&quot;<br>Est. release: 12 Nov 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/matty-mandaworld-warm-you/850438-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/matty-mandaworld-warm-you/850438-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850438/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;13.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/band-of-horses-things-are-great/850685-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850685-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Band+Of+Horses/?c=2516634">BAND OF HORSES</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/band-of-horses-things-are-great/850685-01/?c=2516634" style="color: #444;">Things Are Great</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/BMG/?c=2516634" style="color: #777;">BMG</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 21 Jan 22<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/band-of-horses-things-are-great/850685-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/band-of-horses-things-are-great/850685-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850685/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;18.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/dope-lemon-rose-pink-cadillac/850918-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850918-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Dope+Lemon/?c=2516634">DOPE LEMON</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/dope-lemon-rose-pink-cadillac/850918-01/?c=2516634" style="color: #444;">Rose Pink Cadillac</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/BMG/?c=2516634" style="color: #777;">BMG</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 12 Nov 21<br></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/dope-lemon-rose-pink-cadillac/850918-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850918/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;26.75</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/goldfrapp-head-first/850465-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850465-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Goldfrapp/?c=2516634">GOLDFRAPP</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/goldfrapp-head-first/850465-01/?c=2516634" style="color: #444;">Head First</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/BMG/?c=2516634" style="color: #777;">BMG</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 26 Nov 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/goldfrapp-head-first/850465-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/goldfrapp-head-first/850465-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850465/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;24.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/johnny-marr-fever-dreams-pt-1-4/850688-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850688-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Johnny+Marr/?c=2516634">Johnny MARR</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/johnny-marr-fever-dreams-pt-1-4/850688-01/?c=2516634" style="color: #444;">Fever Dreams Pt 1-4</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/BMG/?c=2516634" style="color: #777;">BMG</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 25 Feb 22<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/johnny-marr-fever-dreams-pt-1-4/850688-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/johnny-marr-fever-dreams-pt-1-4/850688-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850688/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;24.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/mr-maserati-best-of-baxter-dury-2001/850724-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850724-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Baxter+Dury/?c=2516634">Baxter DURY</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/mr-maserati-best-of-baxter-dury-2001/850724-01/?c=2516634" style="color: #444;">Mr Maserati: Best Of Baxter Dury 2001-2021</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Heavenly/?c=2516634" style="color: #777;">Heavenly</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 03 Dec 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/mr-maserati-best-of-baxter-dury-2001/850724-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/mr-maserati-best-of-baxter-dury-2001/850724-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850724/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/modern-nature-island-of-noise/850590-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850590-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Modern+Nature/?c=2516634">MODERN NATURE</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/modern-nature-island-of-noise/850590-01/?c=2516634" style="color: #444;">Island Of Noise</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Bella+Union/?c=2516634" style="color: #777;">Bella Union</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 19 Nov 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/modern-nature-island-of-noise/850590-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/modern-nature-island-of-noise/850590-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850590/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;48.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/connan-mockasin-jassbusters-two/850369-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850369-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Connan+Mockasin/?c=2516634">CONNAN MOCKASIN</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/connan-mockasin-jassbusters-two/850369-01/?c=2516634" style="color: #444;">Jassbusters Two</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Mexican+Summer+US/?c=2516634" style="color: #777;">Mexican Summer US</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 05 Nov 21<br></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/connan-mockasin-jassbusters-two/850369-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850369/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;18.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/molly-nilsson-extreme/850280-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850280-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Molly+Nilsson/?c=2516634">Molly NILSSON</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/molly-nilsson-extreme/850280-01/?c=2516634" style="color: #444;">Extreme</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Night+School/?c=2516634" style="color: #777;">Night School</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 28 Jan 22<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/molly-nilsson-extreme/850280-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/molly-nilsson-extreme/850280-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850280/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/osees-levitation-sessions-vol-i/850354-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850354-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/Osees/?c=2516634">OSEES</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/osees-levitation-sessions-vol-i/850354-01/?c=2516634" style="color: #444;">Levitation Sessions Vol I</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/The+Reverberation+Appreciation+Society/?c=2516634" style="color: #777;">The Reverberation Appreciation Society</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 05 Nov 21<br></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/osees-levitation-sessions-vol-i/850354-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850354/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.99</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/the-boo-radleys-keep-on-with-falling/850236-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850236-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/The+Boo+Radleys/?c=2516634">The BOO RADLEYS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/the-boo-radleys-keep-on-with-falling/850236-01/?c=2516634" style="color: #444;">Keep On With Falling</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/BooSTR/?c=2516634" style="color: #777;">BooSTR</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: LP<br>Est. release: 11 Mar 22<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/the-boo-radleys-keep-on-with-falling/850236-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/the-boo-radleys-keep-on-with-falling/850236-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850236/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;19.25</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td" rowspan="2"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/david-j-bela-lugosis-dead-undead-is/850162-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/CS850162-01A-MED.jpg" height="200"></a></div></td><td class="j-product-gutter" rowspan="2">&nbsp;</td>
+									<td colspan="2"><div class="j-spacer-sm">&nbsp;</div><div class="j-product-artist"><a style="color: #111;" href="https://www.juno.co.uk/artists/David+J+Haskins/?c=2516634">David J HASKINS</a></div>
+										<div class="j-product-title"><a href="https://www.juno.co.uk/products/david-j-bela-lugosis-dead-undead-is/850162-01/?c=2516634" style="color: #444;">Bela Lugosi's Dead (Undead Is Forever)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Erototox+Decodings/?c=2516634" style="color: #777;">Erototox Decodings</a></div></td></tr>
+								<tr><td><div class="j-spacer-sm">&nbsp;</div>Indie/Alternative<br>Format: 7&quot;<br>Est. release: 19 Nov 21<br><div class="j-spacer-sm">&nbsp;</div><div class="j-view-tracklist"><a href="https://www.juno.co.uk/products/david-j-bela-lugosis-dead-undead-is/850162-01/?c=2516634">View tracklist</a></div></td>
+									<td class="j-text-right"><div class="j-spacer-sm">&nbsp;</div><a href="https://www.juno.co.uk/products/david-j-bela-lugosis-dead-undead-is/850162-01/?autoplay=1&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-listen.png" alt="Listen"></a><br><div class="j-spacer-xs">&nbsp;</div>
+										<a href="https://www.juno.co.uk/cart/add/850162/01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a><br><span class="j-price">&#163;15.50</span></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+
+<table class="j-title"><tr><td align="center"><table class="j-container"><tr><td><a name="Equipment">Equipment</a></td></tr></table></td></tr></table>
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/magma-45-record-bag-100-limited-dusty/849148-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849148-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/magma-45-record-bag-100-limited-dusty/849148-01/?c=2516634">Magma 45 Record Bag 100 Limited Dusty Donuts Edition (camo-green)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Magma/?c=2516634">Magma</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>7 inch record bag<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/magma-45-record-bag-100-limited-dusty/849148-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849148/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;99.99</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/rides-in-rides-in-the-storm-xxm/835259-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS835259-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/rides-in-rides-in-the-storm-xxm/835259-01/?c=2516634">Rides In The Storm XXM Eurorack Module</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Rides+In+The+Storm+Modules/?c=2516634">Rides In The Storm Modules</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Eurorack mixer module<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/rides-in-rides-in-the-storm-xxm/835259-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/835259/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;63.00</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/magma-45-record-bag-100-limited-dusty/849145-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849145-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/magma-45-record-bag-100-limited-dusty/849145-01/?c=2516634">Magma 45 Record Bag 100 Limited Dusty Donuts Edition (black)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Magma/?c=2516634">Magma</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>7 inch record bag<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/magma-45-record-bag-100-limited-dusty/849145-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849145/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;99.99</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/acid-rain-technology-junction-eurorack-module/846080-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS846080-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/acid-rain-technology-junction-eurorack-module/846080-01/?c=2516634">Acid Rain Technology Junction Eurorack Module</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Acid+Rain+Technology/?c=2516634">Acid Rain Technology</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Eurorack module<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/acid-rain-technology-junction-eurorack-module/846080-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/846080/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;95.00</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/legend-vinyl-12-glass-clear-polypropylene-vinyl/849203-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849203-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/legend-vinyl-12-glass-clear-polypropylene-vinyl/849203-01/?c=2516634">Legend Vinyl 12" Glass Clear Polypropylene Vinyl Record Sleeves (pack of 50)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Legend+Vinyl/?c=2516634">Legend Vinyl</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Record sleeves<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/legend-vinyl-12-glass-clear-polypropylene-vinyl/849203-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849203/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;8.75</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/legend-vinyl-complete-care-vinyl-record-cleaner/849191-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849191-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/legend-vinyl-complete-care-vinyl-record-cleaner/849191-01/?c=2516634">Legend Vinyl Complete Care Vinyl Record Cleaner Kit With Brush, Fluid, Cloths & Wet/Dry Tissues</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Legend+Vinyl/?c=2516634">Legend Vinyl</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Vinyl cleaning kit<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/legend-vinyl-complete-care-vinyl-record-cleaner/849191-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849191/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;17.25</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/legend-vinyl-professional-grade-vinyl-record-cleaning/849195-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849195-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/legend-vinyl-professional-grade-vinyl-record-cleaning/849195-01/?c=2516634">Legend Vinyl Professional Grade Vinyl Record Cleaning Solution With Fluid & Cloth</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Legend+Vinyl/?c=2516634">Legend Vinyl</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Record cleaning solution<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/legend-vinyl-professional-grade-vinyl-record-cleaning/849195-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849195/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;8.75</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/legend-vinyl-turntable-stylus-vinyl-record-cleaner/849201-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849201-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/legend-vinyl-turntable-stylus-vinyl-record-cleaner/849201-01/?c=2516634">Legend Vinyl Turntable Stylus Vinyl Record Cleaner Kit With Stylus Cleaner, Fluid & Cloth</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Legend+Vinyl/?c=2516634">Legend Vinyl</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Stylus cleaning kit<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/legend-vinyl-turntable-stylus-vinyl-record-cleaner/849201-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849201/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;11.25</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-cleaner-kit-with/849193-01/?c=2516634"><img class="j-product-image" src="https://cmscdn.juno.co.uk/cms/43/10314/1_1.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-cleaner-kit-with/849193-01/?c=2516634">Legend Vinyl Vinyl Record Cleaner Kit With Fluid, Cloth & Wet/Dry Tissues</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Legend+Vinyl/?c=2516634">Legend Vinyl</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Record cleaning kit<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-cleaner-kit-with/849193-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849193/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;14.75</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/presonus-r65-v2-studio-monitor-single/845640-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS845640-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/presonus-r65-v2-studio-monitor-single/845640-01/?c=2516634">Presonus R65 V2 Studio Monitor (single)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Presonus/?c=2516634">Presonus</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Studio monitor<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/presonus-r65-v2-studio-monitor-single/845640-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/845640/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;289.00</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/presonus-r80-v2-studio-monitor-single/845646-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS845646-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/presonus-r80-v2-studio-monitor-single/845646-01/?c=2516634">Presonus R80 V2 Studio Monitor (single)</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Presonus/?c=2516634">Presonus</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Studio monitor<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/presonus-r80-v2-studio-monitor-single/845646-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/845646/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;369.00</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-storage-case-35/849207-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849207-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-storage-case-35/849207-01/?c=2516634">Legend Vinyl Vinyl Record Storage Case 35</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Legend+Vinyl/?c=2516634">Legend Vinyl</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Record storage case<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-storage-case-35/849207-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849207/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;31.99</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-storage-crate-100/849204-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849204-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-storage-crate-100/849204-01/?c=2516634">Legend Vinyl Vinyl Record Storage Crate 100</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Legend+Vinyl/?c=2516634">Legend Vinyl</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Record storage crate<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/legend-vinyl-vinyl-record-storage-crate-100/849204-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849204/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;29.75</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/steinberg-absolute-5/849163-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849163-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/steinberg-absolute-5/849163-01/?c=2516634">Steinberg Absolute 5</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Steinberg/?c=2516634">Steinberg</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Virtual instrument software<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/steinberg-absolute-5/849163-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849163/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;417.99</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+			 				<table class="j-product"><tr><td align="center"><div class="j-spacer-lg">&nbsp;</div><table class="j-container">
+								<tr><td class="j-product-image-td"><div class="j-product-image-container"><a href="https://www.juno.co.uk/products/steinberg-ur22-mkii-value-edition-inclusive-cubase/849160-01/?c=2516634"><img class="j-product-image" src="https://imagescdn.juno.co.uk/300/IS849160-01-01-MED.jpg" height="200"></a></div></td><td class="j-product-gutter">&nbsp;</td>
+									<td><div class="j-spacer-md">&nbsp;</div><div class="j-product-title"><a href="https://www.juno.co.uk/products/steinberg-ur22-mkii-value-edition-inclusive-cubase/849160-01/?c=2516634">Steinberg UR22 MKII Value Edition Inclusive Cubase Elements & Groove Agent</div><div class="j-product-label"><a href="https://www.juno.co.uk/labels/Steinberg/?c=2516634">Steinberg</a></div>
+										<div class="j-spacer-sm">&nbsp;</div>Audio interface bundle<br><div class="j-spacer-md">&nbsp;</div>
+										<table><tr><td><a href="https://www.juno.co.uk/products/steinberg-ur22-mkii-value-edition-inclusive-cubase/849160-01/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-more-info.png" alt="More info"></a>&nbsp;&nbsp;</td>
+												<td><a href="https://www.juno.co.uk/cart/add/849160/1/?c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/buttons/btn-atc.png" alt="Add to cart"></a>&nbsp;&nbsp;</td><td class="j-vam"><span class="j-price">&#163;147.99</span></td></tr></table></td></tr>
+								</table><div class="j-spacer-lg">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+																	
+
+
+	<table class="j-content"><tr><td align="center"><div class="j-spacer-md">&nbsp;</div><table class="j-container"><tr><td class="j-text-center">
+							<table class="j-links">
+								<tr>
+									<td align="center"><a href="https://www.juno.co.uk/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=bottom_link_home&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/logos/ml_records.png" style="border:none; display: block;" alt="Juno Records" /></a></td>
+									<td align="center"><a href="https://www.juno.co.uk/dj/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=bottom_link_dj&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/logos/ml_dj.png" style="border:none; display: block;" alt="Juno DJ" /></a></td>
+									<td align="center"><a href="https://www.juno.co.uk/studio/?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=bottom_link_studio&c=2516634"><img src="https://imagescdn.juno.co.uk/email/assets/logos/ml_studio.png" style="border:none; display: block;" alt="Juno Studio" /></a></td>
+								</tr>
+							</table>
+							</td></tr></table><div class="j-spacer-md">&nbsp;</div></td></tr></table><table class="j-sep"><tr><td></td></tr></table>
+	<table class="j-content"><tr><td align="center"><table class="j-container"><tr><td><table class="j-join"><tr><td class="j-text-center" colspan="7"><div class="j-spacer-lg">&nbsp;</div>Join us on:<div class="j-spacer-md">&nbsp;</div></td></tr>
+								<tr><td class="j-text-center"><a href="https://www.facebook.com/junorecords"><img src="https://imagescdn.juno.co.uk/email/assets/icons/fb-32.png" alt="Join us on Facebook" /></a>&nbsp;&nbsp;<a href="https://www.twitter.com/junorecords"><img src="https://imagescdn.juno.co.uk/email/assets/icons/tw-32.png" alt="Join us on Twitter" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/junorecords"><img src="https://imagescdn.juno.co.uk/email/assets/icons/ig-32.png" alt="Join us on Instagram" /></a>&nbsp;&nbsp;
+										<a href="https://www.youtube.com/junorecords"><img src="https://imagescdn.juno.co.uk/email/assets/icons/yt-32.png" alt="Join us on YouTube" /></a>&nbsp;&nbsp;<a href="https://www.soundcloud.com/junorecords/"><img src="https://imagescdn.juno.co.uk/email/assets/icons/sc-32.png" alt="Join us on SoundCloud" /></a>&nbsp;&nbsp;<a href="https://www.pinterest.com/junorecords/"><img src="https://imagescdn.juno.co.uk/email/assets/icons/pn-32.png" alt="Join us on Pinterest" /></a></td></tr>
+								</table></td></tr></table><div class="j-spacer-lg">&nbsp;</div>
+				<table class="j-container"><tr><td class="j-text-center">You are currently subscribed to this e-mail as a customer of Juno Records as <strong>dagabi@gmail.com</strong><br />To unsubscribe or manage your Juno Records e-mail subscription settings, please click <a href="https://www.juno.co.uk/subscriptions/RjI4OENGNjQtRkMyOS00MzQ0LTlENjgtNUM3MTY0MzgzQjEzfDY=?utm_campaign=daily_weekly_email&utm_source=weekly_email&utm_medium=daily_weekly_2021-10-17&utm_content=manage_link_bottom&c=2516634" style="color: #555555;"><strong>here</strong></a><br /><div class="j-spacer-md">&nbsp;</div>Juno Records, PO Box 45557, London NW1 0UT, United Kingdom</td></tr></table><div class="j-spacer-lg">&nbsp;</div>
+				</td></tr></table><img src="https://www.google-analytics.com/collect?v=1&ni=1&tid=UA-431128-9&cid=555&t=event&ec=email&ea=open&cn=daily_weekly_email&cs=weekly_email&cm=daily_weekly_2021-10-17&dp=%2Femail%2Fweekly%2F2021-10-17&dt=New%20Vinyl%20%26%20CD%20releases%20%7C%20w%2Fc%20Sunday%2017%20October%202021">
+</body>
+</html>
