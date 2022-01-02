@@ -1,12 +1,12 @@
 from googleapiclient.discovery import build
 from httplib2 import Http
 from oauth2client import file, client, tools
+from bs4 import BeautifulSoup
 import base64
 
 SCOPES = 'https://www.googleapis.com/auth/gmail.readonly'
 
-def main():
-   
+def getMails():
     store = file.Storage('token.json')
     creds = store.get()
     if not creds or creds.invalid:
@@ -27,13 +27,30 @@ def main():
         for message in messages:
             msg = service.users().messages().get(userId='me', id=message['id'], format='full').execute()
             content = base64.urlsafe_b64decode(msg['payload']['body']['data']).decode('utf-8')
-            subject = next(obj for obj in msg['payload']['headers'] if obj['name'] == 'Subject')
-            messageSubject = ''
-            if type(subject) == dict:
-                messageSubject = subject['value']
-            with open(f"message{fileIdx}.htm", 'w') as f:
-                f.write(content)
+            #subject = next(obj for obj in msg['payload']['headers'] if obj['name'] == 'Subject')
+            #messageSubject = ''
+            #if type(subject) == dict:
+            #    messageSubject = subject['value']
+
+            #with open(f"message{fileIdx}.htm", 'w') as f:
+            #    f.write(content)
+            scrapeMail(content)
+
             fileIdx = fileIdx + 1
+
+def scrapeMail(mailContent):
+    soup = BeautifulSoup(mailContent, 'html.parser')
+    #FIND ALL THE ITEMS IN THE PAGE WITH A CLASS ATTRIBUTE OF 'TEXT'
+    #AND STORE THE LIST AS A VARIABLE
+    suggestions = soup.findAll('table', attrs={'class':'j-product'})
+    for suggest in suggestions:
+        title = suggest.find('div', attrs={'class', 'j-product-title'}).string
+        artist = suggest.find('div', attrs={'class', 'j-product-artist'}).string
+        print(f"{artist} - {title}")
+    return
+
+def main():
+    getMails()
 
 if __name__ == '__main__':
     main()
