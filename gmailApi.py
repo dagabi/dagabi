@@ -3,8 +3,10 @@ from httplib2 import Http
 from oauth2client import file, client, tools
 from bs4 import BeautifulSoup
 import base64
+from SpotifyManager import SpotifyManager
 
 SCOPES = 'https://www.googleapis.com/auth/gmail.readonly'
+sp = SpotifyManager()
 
 def getMails():
     store = file.Storage('token.json')
@@ -24,19 +26,19 @@ def getMails():
         print( "No messages found .")
     else:
         print("Message snippets:")
-        for message in messages:
-            msg = service.users().messages().get(userId='me', id=message['id'], format='full').execute()
-            content = base64.urlsafe_b64decode(msg['payload']['body']['data']).decode('utf-8')
-            #subject = next(obj for obj in msg['payload']['headers'] if obj['name'] == 'Subject')
-            #messageSubject = ''
-            #if type(subject) == dict:
-            #    messageSubject = subject['value']
-
-            #with open(f"message{fileIdx}.htm", 'w') as f:
-            #    f.write(content)
-            scrapeMail(content)
-
-            fileIdx = fileIdx + 1
+        #for message in messages:
+        #with messages[0] as message:
+        message = messages[0]
+        msg = service.users().messages().get(userId='me', id=message['id'], format='full').execute()
+        content = base64.urlsafe_b64decode(msg['payload']['body']['data']).decode('utf-8')
+        #subject = next(obj for obj in msg['payload']['headers'] if obj['name'] == 'Subject')
+        #messageSubject = ''
+        #if type(subject) == dict:
+        #    messageSubject = subject['value']
+        #with open(f"message{fileIdx}.htm", 'w') as f:
+        #    f.write(content)
+        scrapeMail(content)
+        fileIdx = fileIdx + 1
 
 def scrapeMail(mailContent):
     soup = BeautifulSoup(mailContent, 'html.parser')
@@ -44,9 +46,17 @@ def scrapeMail(mailContent):
     #AND STORE THE LIST AS A VARIABLE
     suggestions = soup.findAll('table', attrs={'class':'j-product'})
     for suggest in suggestions:
-        title = suggest.find('div', attrs={'class', 'j-product-title'}).string
-        artist = suggest.find('div', attrs={'class', 'j-product-artist'}).string
-        print(f"{artist} - {title}")
+        titleDiv = suggest.find('div', attrs={'class', 'j-product-title'})
+        artistDiv = suggest.find('div', attrs={'class', 'j-product-artist'})
+        if(titleDiv is None or artistDiv is None): continue
+        title = titleDiv.text
+        artist = artistDiv.text
+        res = sp.seach_album(artist, title)
+        if not res: continue
+        print(f"{artist} - {title}: " + res['external_urls']['spotify'])
+
+        #print(f"{artist} - {title}")
+
     return
 
 def main():
